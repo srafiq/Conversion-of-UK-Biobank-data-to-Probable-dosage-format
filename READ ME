@@ -1,0 +1,2 @@
+The code provided here assumes that the UK biobank data has already been converted from bgen to gen format. 
+The conversion of bgen to gen can be undertaken using plink2. 
